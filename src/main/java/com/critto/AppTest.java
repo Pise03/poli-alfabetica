@@ -32,6 +32,8 @@ public class AppTest
        System.out.println("Parola da cifrare: " + testo1);
        System.out.println("Parola cifrata: " + cifratura);
 
+       System.out.println("Adesso faccio il procedimento inverso");
+
        System.out.println("Parola da cifrare: " + testo2);
        System.out.println("Parola cifrata: " + decifratura);
        
